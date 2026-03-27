@@ -43,8 +43,8 @@
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/sujal-sharma-926a8a252/)
+[![Gmail](sharmaofficial2004@gmail.com)
 
 ---
 
